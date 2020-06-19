@@ -1,1 +1,15 @@
 .vscode
+/api
+/beta
+/cgi-bin
+/dist
+/drinks.mentorbox.id
+/home
+/lp
+/old
+/ono
+/product
+
+.ftpquote
+*.zip
+*.txt
